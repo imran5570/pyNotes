@@ -189,6 +189,8 @@ class NotepadApp(QMainWindow):
         self.tab_widget.setTabBarAutoHide(False)
         self.tab_widget.setDocumentMode(True)
         self.tab_widget.setTabPosition(QTabWidget.TabPosition.North)
+        self.tab_widget.setTabPosition(QTabWidget.TabPosition.North)
+        close_icon_path = os.path.join(os.path.dirname(__file__), 'images', 'close_tab.png')
         self.tab_widget.tabCloseRequested.connect(self.close_tab)
         self.tab_widget.setStyleSheet("""
             QTabBar::close-button {
